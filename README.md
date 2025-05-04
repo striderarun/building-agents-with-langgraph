@@ -1,1 +1,2 @@
-A repository for building different kinds of AI agents using Langgraph.
+A repository for building different kinds of agentic workflows using Langgraph.
+
